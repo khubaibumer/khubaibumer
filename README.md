@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Enterprise Level Faithful System and Cache Simulations
+- 🌱 I’m currently learning CDNs, CXL and Polygot Coordination Languages
+- 👯 I’m looking to collaborate on Anything exciting
+
 <!--
 **khubaibumer/khubaibumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
